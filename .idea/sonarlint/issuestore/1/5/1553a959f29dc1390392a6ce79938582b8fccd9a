@@ -1,0 +1,97 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(²ÝÅûûÿÿÿÿ
+t	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôÏ‚ôûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Žæÿ
+m
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(”ç„ºûÿÿÿÿ
+—
+java:S1186["€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤¼›Î
+œ
+java:S1186_"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ø¡ý¥ûÿÿÿÿ
+œ
+java:S1186i"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Êô¢æûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(í‚…‘
+R	java:S125‘"<This block of commented-out lines of code should be removed.(ˆ™«¢
+R	java:S125¹"<This block of commented-out lines of code should be removed.(í‚…‘
+R	java:S125Ê"<This block of commented-out lines of code should be removed.(ˆ™«¢
+S
+java:S1854ä"7Remove this useless assignment to local variable "exp".(Ó¯Æ‰úÿÿÿÿ
+P
+java:S1854ò"9Remove this useless assignment to local variable "email".(ÉïÊ×
+M
+java:S1854‡"6Remove this useless assignment to local variable "ex".(öµÿô
+M
+java:S1854†"6Remove this useless assignment to local variable "hq".(ßœÒÝ
+M
+java:S1854ž"6Remove this useless assignment to local variable "ex".(öµÿô
+M
+java:S1854"6Remove this useless assignment to local variable "hq".(ßœÒÝ
+P
+java:S1854®"9Remove this useless assignment to local variable "tweet".(µ
+M
+java:S1854¹"6Remove this useless assignment to local variable "ex".(öµÿô
+S
+java:S1854²"7Remove this useless assignment to local variable "exp".(Ó¯Æ‰úÿÿÿÿ
+P
+java:S2440ä"4Remove this instantiation of "AbbreviationExpander".(Ó¯Æ‰úÿÿÿÿ
+D
+java:S1481ä"(Remove this unused "exp" local variable.(Ó¯Æ‰úÿÿÿÿ
+A
+java:S1481ò"*Remove this unused "email" local variable.(ÉïÊ×
+L
+java:S2440†"5Remove this instantiation of "HyperlinksQuarantiner".(ßœÒÝ
+>
+java:S1481†"'Remove this unused "hq" local variable.(ßœÒÝ
+@
+java:S2440‡")Remove this instantiation of "Extractor".(öµÿô
+>
+java:S1481‡"'Remove this unused "ex" local variable.(öµÿô
+L
+java:S2440"5Remove this instantiation of "HyperlinksQuarantiner".(ßœÒÝ
+>
+java:S1481"'Remove this unused "hq" local variable.(ßœÒÝ
+@
+java:S2440ž")Remove this instantiation of "Extractor".(öµÿô
+>
+java:S1481ž"'Remove this unused "ex" local variable.(öµÿô
+A
+java:S1481®"*Remove this unused "tweet" local variable.(µ
+P
+java:S2440²"4Remove this instantiation of "AbbreviationExpander".(Ó¯Æ‰úÿÿÿÿ
+D
+java:S1481²"(Remove this unused "exp" local variable.(Ó¯Æ‰úÿÿÿÿ
+@
+java:S2440¹")Remove this instantiation of "Extractor".(öµÿô
+>
+java:S1481¹"'Remove this unused "ex" local variable.(öµÿô
+R	java:S125Ã"<This block of commented-out lines of code should be removed.(æ×Ý
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(¼—ºÊþÿÿÿÿ
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(ÞÌ°º
+R	java:S125Ð"<This block of commented-out lines of code should be removed.(ÉÍßÉ
+Q
+java:S1854ú":Remove this useless assignment to local variable "xframe".(°ì€
+B
+java:S1481ú"+Remove this unused "xframe" local variable.(°ì€
+I
+java:S1135"2Complete the task associated to this TODO comment.(¡ç‚Ï
+O
+java:S1128	"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ
+H
+java:S1068"2Remove this unused "projectNameLbl" private field.(õØÎ‹
+V
+java:S1068";Remove this unused "loadProcessedMessageBtn" private field.(¢…†Èûÿÿÿÿ
+N
+java:S1068"3Remove this unused "msgTypeTxtField" private field.(¹­Ý¸ùÿÿÿÿ
+S
+java:S1144€"7Remove this unused private "createUIComponents" method.(Á›°çýÿÿÿÿ
+h
+java:S1192P"MDefine a constant instead of duplicating this literal "Sender email" 3 times.(¬ÐÎŸúÿÿÿÿ
+d
+java:S1192ö"NDefine a constant instead of duplicating this literal "Invalid Input" 4 times.(¥î¤p
+F
+java:S1066ý"/Merge this if statement with the enclosing one.(úî”¼
+K
+java:S1066"/Merge this if statement with the enclosing one.(“‘ü°üÿÿÿÿ
+D
+java:S1604Ö"(Make this anonymous inner class a lambda(òì°ªùÿÿÿÿ

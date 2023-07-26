@@ -1,0 +1,18 @@
+
+M
+java:S1172J"+Remove this unused method parameter "type".(ç¤ú„ùÿÿÿÿ8ÊéÔ/
+U
+java:S1854g":Remove this useless assignment to local variable "mapper".(ĞÏáúÿÿÿÿ
+F
+java:S1481g"+Remove this unused "mapper" local variable.(ĞÏáúÿÿÿÿ
+Q	java:S125~"<This block of commented-out lines of code should be removed.(Õçáå
+[
+java:S1128">Remove this unused import 'org.json.simple.parser.JSONParser'.(õø²¹8í‘éÔ/
+_
+java:S1128"BRemove this unused import 'org.json.simple.parser.ParseException'.(ƒÁ‡8í‘éÔ/
+Q
+java:S1128
+"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8í‘éÔ/
+Q	java:S107*"<Method has 8 parameters, which is greater than 7 authorized.(ªüÙŒ
+^
+java:S2095i"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(•»Ê”
